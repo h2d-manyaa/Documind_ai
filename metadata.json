@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI — RAG Document Intelligence",
+  "description": "Intelligent document retrieval and analysis for PDF and TXT files. Upload documents, ask questions, and receive grounded answers backed by traceable passage citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
